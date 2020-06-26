@@ -60,6 +60,14 @@ img {
     max-width: 100%;
 }
 
+iframe {
+    display: block;
+    max-width: 100%;
+    width: 70%;
+    height: 300px;
+    margin: auto;
+}
+
 strong {
     font-weight: var(--fw-bold)
 }
@@ -106,6 +114,10 @@ h1 {
 
 h2 {
     font-size: var(--fs-h2)
+}
+
+h2.portfolio {
+    text-align: center;
 }
 
 h3 {
