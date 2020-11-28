@@ -4,7 +4,7 @@
 */
 
 body {
-    background-color: white;
+    background-color: #ffffff;
     cursor: default;
     box-sizing: border-box;
 }
@@ -61,7 +61,7 @@ a {
 
 a:active,
 a:hover {
-    outline-width: 0;
+    outline-width: 50;
 }
 
 abbr[title] {
